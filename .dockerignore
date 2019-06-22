@@ -1,0 +1,10 @@
+# Git files
+.git
+.gitignore
+
+# Information files
+LICENSE
+README.md
+
+# Systemd
+deluge-daemon.service
